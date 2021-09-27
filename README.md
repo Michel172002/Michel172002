@@ -9,3 +9,10 @@ English:
 - 🏡 I'm from São José dos Campos / São Paulo / Brazil.
 - 📚 I'm in the second semester of Analysis and System Development, at IFSC Campus Canoinhas.
 - 💾 I am a beginner in the field of programming, but I am eager to learn.
+
+##
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michel172002&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michel172002&layout=compact&langs_count=7&theme=dark"/>
+</div>
