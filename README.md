@@ -10,6 +10,13 @@ English:
 - 📚 I'm studying the fifth semester of Systems Analysis and Development, at IFSC Campus Canoinhas.
 - 💾 Focused on learning more.
 
+ESTUDANDO:
+<div style="display: inline_block"><br>
+  <img align="center" alt="java" height="70" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+  <img align="center" alt="java" height="70" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
+  <img align="center" alt="java" height="70" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+</div>
+
 ##
 <div align="center">
   <a href="https://github.com/michel172002">
