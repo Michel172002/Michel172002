@@ -1,3 +1,4 @@
+# Sobre Mim:
 Portugues:
 - 👋 Olá, sou o Erick Michel Rodrigues Silva
 - 🏡 Sou natural de São José dos Campos / São Paulo / Brasil.
@@ -10,7 +11,7 @@ English:
 - 📚 I'm studying the fifth semester of Systems Analysis and Development, at IFSC Campus Canoinhas.
 - 💾 Focused on learning more.
 
-ESTUDANDO:
+# Tecnologias:
 <div style="display: inline_block"><br>
   <img align="center" alt="java" height="70" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
   <img align="center" alt="spring" height="70" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
