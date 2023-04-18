@@ -18,6 +18,7 @@ English:
   <img align="center" alt="git" height="70" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="react" height="70" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
   <img align="center" alt="python" height="70" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="center" alt="docker" height="70" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
 </div>
 
 ##
