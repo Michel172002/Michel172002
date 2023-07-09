@@ -14,7 +14,7 @@ English:
 ----
 
 <a href="https://github.com/michel172002">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michel172002&langs_count=7&theme=merko"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michel172002&langs_count=7&theme=transparent"/>
   
 # Tecnologias:
 <p align="center">
@@ -25,7 +25,7 @@ English:
 
 ----
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=michel172002&show_icons=true&theme=merko"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=michel172002&show_icons=true&theme=transparent"/>
 </div>
 
 
