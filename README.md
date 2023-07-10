@@ -28,5 +28,6 @@ English:
     <img src="https://github-readme-stats.vercel.app/api?username=michel172002&show_icons=true&theme=transparent"/>
 </div>
 
-
+----
+[![](https://visitcount.itsvg.in/api?id=michel172002&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
   
