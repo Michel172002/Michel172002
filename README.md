@@ -19,7 +19,7 @@ English:
 # Tecnologias:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,react,javascript,py,django,git,docker" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,javascript,py,django,git,docker" />
   </a>
 </p>
 
