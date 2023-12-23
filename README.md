@@ -2,13 +2,13 @@
 Portugues:
 - 👋 Olá, sou o Erick Michel Rodrigues Silva
 - 🏡 Sou natural de São José dos Campos / São Paulo / Brasil.
-- 📚 Estou cursando o ultimo semestre de Análise e Desenvolvimento de Sistemas, no IFSC Campus Canoinhas.
+- 📚 Sou formado em Análise e Desenvolvimento de Sistemas, pelo IFSC Campus Canoinhas.
 - 💾 Focado em aprender mais.
 
 English:
 - 👋 Hi, I’m Erick Michel Rodrigues Silva
 - 🏡 I'm from São José dos Campos / São Paulo / Brazil.
-- 📚 I'm studying the last semester of Systems Analysis and Development, at IFSC Campus Canoinhas.
+- 📚 I have a degree in Systems Analysis and Development, from IFSC Campus Canoinhas.
 - 💾 Focused on learning more.
 
 ----
@@ -19,7 +19,7 @@ English:
 # Tecnologias:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,javascript,py,django,git,docker" />
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,html,css,aws,azure,git,docker" />
   </a>
 </p>
 
