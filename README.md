@@ -13,21 +13,12 @@ English:
 
 ----
 
-<a href="https://github.com/michel172002">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michel172002&langs_count=7&theme=transparent"/>
-  
 # Tecnologias:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,html,css,aws,git,docker" />
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,html,css,aws,python,git,docker" />
   </a>
 </p>
 
-----
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=michel172002&show_icons=true&theme=transparent"/>
-</div>
-
-----
 [![](https://visitcount.itsvg.in/api?id=michel172002&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
   
