@@ -10,7 +10,7 @@ Sou comprometido com o que faço e estou sempre em busca de aprimorar minhas hab
 ## 🔧 Tecnologias & Ferramentas   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,alpinejs,tailwind,java,spring,angular,typescript,html,css,git" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,alpinejs,tailwind,java,spring,html,css,git" />
   </a>
 </p>
 
